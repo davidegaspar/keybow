@@ -19,7 +19,9 @@ function handle_minikey_00(pressed)
     end
 end
 
+-- https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-Shortcuts-for-Zoom
 -- Command(⌘)+Shift+A: Mute/unmute audio
+-- Command(⌘)+Shift+V: Start/stop video
 -- Command(⌘)+Shift+S: Start/stop screen share
 -- Command(⌘)+Shift+F: Enter or exit full screen
 -- Command(⌘)+Shift+M: Switch to minimal window
