@@ -1,0 +1,5 @@
+set -ex
+
+cp keys.lua /Volumes/KEYBOW
+cp -r layouts/*.lua /Volumes/KEYBOW/layouts
+cp -r snippets/*.lua /Volumes/KEYBOW/snippets
